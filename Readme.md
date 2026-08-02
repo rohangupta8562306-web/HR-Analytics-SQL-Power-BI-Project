@@ -1,12 +1,12 @@
 # 📊 HR Analytics Data Analysis using SQL Server
 
 <p align="center">
-  <img src="logo.png" width="700">
+  <img src="HR-ANALYTICS%20LOGO.jpg" alt="HR Analytics Logo" width="350">
 </p>
 
-## 📌 Overview
+## Overview
 
-This project analyzes an HR Analytics dataset using SQL Server to answer real-world business questions related to employee attrition, salary, job satisfaction, work-life balance, performance, and departmental insights.
+This project analyzes an HR Analytics dataset using SQL Server to answer real-world business questions related to employee attrition, salary, job satisfaction, work-life balance, employee performance, and workforce trends.
 
 The objective is to help HR teams make data-driven decisions for improving employee retention and workforce planning.
 
