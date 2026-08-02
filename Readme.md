@@ -1,7 +1,7 @@
 # 📊 HR Analytics Data Analysis using SQL Server
 
 <p align="center">
-  <img src="HR-ANALYTICS%20LOGO.jpg" alt="HR Analytics Logo" width="350">
+ <img src="HR Analytics.png" alt="HR Analytics" width="350"/>
 </p>
 
 ## Overview
